@@ -36,3 +36,13 @@ This template follows a very simple project structure:
    
   - `App.tsx`: Main component that starts your whole app.
   - `index.js`: Entry point of your application as per React-Native standards.
+ 
+- 
+<img width="348" alt="Screenshot 2023-07-11 at 13 26 44" src="https://github.com/topeeee/weather/assets/64969685/83e189cc-420a-44ce-92f9-fab26d1f9897">
+<img width="350" alt="Screenshot 2023-07-11 at 13 27 05" src="https://github.com/topeeee/weather/assets/64969685/0e57df1a-accb-4cfa-ba8a-55c626e53854">
+<img width="356" alt="Screenshot 2023-07-11 at 13 27 30" src="https://github.com/topeeee/weather/assets/64969685/28569f17-7698-42c2-b955-b2f78ce64f43">
+
+
+
+
+
