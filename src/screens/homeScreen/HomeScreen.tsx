@@ -4,8 +4,8 @@ import {useGetCurrentWeather} from '../../hooks/WeatherActions';
 import SearchComponent from '../../components/searchInput';
 import {styles} from './HomeScreen.styles';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
-import {AppStackParamList} from '../../../App';
 import {getRecentSearched, SEARCH_ITEM_KEY} from '../../utils/searchHelper';
+import {AppStackParamList} from '../../navigations/types';
 
 type Props = NativeStackScreenProps<AppStackParamList, 'Home'>;
 

@@ -4,7 +4,7 @@ import {useGetWeatherForecast} from '../../hooks/WeatherActions';
 import {dateBuilder} from '../../utils/dateBuilder';
 import {styles} from './ForecastScreen.styles';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
-import {AppStackParamList} from '../../../App';
+import {AppStackParamList} from '../../navigations/types';
 
 type Props = NativeStackScreenProps<AppStackParamList, 'Forecast'>;
 
